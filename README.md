@@ -9,19 +9,13 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/reem-hikmat/">
-  <img height="50" src="https://user-images.githubusercontent.com/44817096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/44817096/166973962-d05d148a-b6a0-4643-bd3d-5ac848679367.png"/>
-</a>
-<a href="https://dev.to">
-  <img height="50" src="https://user-images.githubusercontent.com/44817096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
 </a>
 <a href="https://twitter.com">
-  <img height="50" src="https://user-images.githubusercontent.com/44817096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000"/>
 </a>
 <a href="https://www.instagram.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/44817096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
 </a>
 </p>
 
@@ -32,13 +26,16 @@
 ```yaml
 name: Reem Shamasnah
 located_in: Jerusalem, Israel
-education:
+Education:
   [
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Science",
   ]
 
-
+Certifications:
+  [
+    "AWS Cloud Practitioner Certification"
+  ]
 fields_of_interests:
   [
     "Software Engineering ",
